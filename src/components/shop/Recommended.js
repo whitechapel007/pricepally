@@ -35,9 +35,7 @@ const Recommended = () => {
             </h6>
             <p className="text-red mb-2">1kg of 50kg left</p>
             <div className="preorder-progress stat-bar mb-2">
-              <span className="stat-bar-rating" role="stat-bar">
-                80%
-              </span>
+              <span className="stat-bar-rating">80%</span>
             </div>
             <p className="mb-2 dgrey-clr">Delivery Date: July 23rd 2021</p>
             <Link to="/">
