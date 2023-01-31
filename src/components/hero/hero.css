@@ -1,0 +1,47 @@
+.hero-content a {
+  color: #373737;
+  text-decoration: none;
+}
+
+.refer-bg {
+  background-image: url(../../assets/images/refer-bg.svg) !important;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+  background-size: cover !important;
+}
+.list-make-bg {
+  background-image: url(../../assets//images/list-bg.svg) !important;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+  background-size: cover !important;
+}
+
+.box-outline {
+  border-radius: 5px;
+  width: 100%;
+  height: 160px;
+  background: #fff;
+  padding: 54px 5px 0 5px;
+  overflow: hidden;
+}
+.hero-content a {
+  color: #373737;
+  text-decoration: none;
+}
+.box-outline p {
+  font-size: 16px;
+  font-weight: 400;
+  margin: 0;
+  color: #262626;
+}
+.box-outline h6 {
+  color: #262626;
+  font-size: 24px;
+  font-weight: 900;
+  margin-bottom: 3px;
+}
+
+.list-make-bg h6,
+.list-make-bg p {
+  color: #ffffff !important;
+}

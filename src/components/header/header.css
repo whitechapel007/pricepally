@@ -1,0 +1,36 @@
+a {
+  text-decoration: none;
+  color: black;
+}
+.profile-img {
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+}
+.pics {
+  align-items: center;
+  display: flex;
+}
+
+.input_container {
+  position: relative;
+  padding: 0;
+  margin: 12px 0;
+  width: 100%;
+}
+.input-box {
+  width: 100%;
+  height: 40px;
+  margin: 0;
+  padding-left: 30px;
+  border: 2px solid #aaaaaa;
+}
+
+.input_img {
+  position: absolute;
+  left: 2%;
+  top: 25%;
+  color: #aaaaaa;
+}
